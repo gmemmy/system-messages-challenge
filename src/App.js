@@ -8,9 +8,8 @@ function App() {
       {cardDetails.map(item =>
         <div className="card" style={{ backgroundColor: item.backgroundColor }}>
           <h2>{item.title}</h2>
-          <p></p>
           <p className="content">{item.content}</p>
-          <button style={{ color: item.backgroundColor }}>
+          <button className="button" style={{ color: item.backgroundColor }}>
             {item.buttonText}
           </button>
         </div>

@@ -14,12 +14,26 @@
   width: 330px;
   border-radius: 10px;
   align-items: center;
+  justify-content: center;
 }
 .content {
   text-align: center;
   white-space: pre-wrap;
-  font-weight: bold;
+  font-weight: bolder;
+  margin-bottom: 50px;
+  font-size: 18px;
 }
 h2 {
-  font-weight: 900;
+  font-weight: bolder;
+}
+button {
+  height: 45px;
+  width: 150px;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: #0000;
+  font-family: Nunito;
+  border-bottom-color: #494141;
+  border-width: 0.5px;
 }
