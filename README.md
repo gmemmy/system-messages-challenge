@@ -7,10 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - cd into the app directory
 
-- yarn<br>
+- `yarn`<br>
 Run this command to install all necessary packages to enable the app run on your local machine.
 
-- yarn start<br>
+- `yarn start`<br>
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
